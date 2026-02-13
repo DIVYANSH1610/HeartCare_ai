@@ -1,7 +1,7 @@
 <!--
   README for HeartCareAI
   Screenshots: about_pred.png, home_pred.png, pred_img1.png, pred_img2.png, tips_pred.png
-  Deployed app: https://heartcareai.streamlit.app/
+  Deployed app:https://heartcareai-4tkb9fwhcwhzzd5zkd9rpl.streamlit.app/
 -->
 
 <div align="center">
@@ -15,7 +15,7 @@
 ### *Advanced Machine Learning for Cardiac Risk Assessment*
 
 <p>
-  <a href="https://heartcareai.streamlit.app/">
+  <a href="https://heartcareai-4tkb9fwhcwhzzd5zkd9rpl.streamlit.app/">
     <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Streamlit App">
   </a>
   <img src="https://img.shields.io/badge/python-3.8+-blue.svg" alt="Python 3.8+">
@@ -36,7 +36,7 @@
 <br>
 
 <!-- Demo GIF or Main Screenshot -->
-<a href="https://heartcareai.streamlit.app/">
+<a href="https://heartcareai-4tkb9fwhcwhzzd5zkd9rpl.streamlit.app/">
   <img src="./assets/home_pred.png" alt="HeartCare AI Banner" width="800" style="border-radius: 10px; box-shadow: 0 8px 30px rgba(0,0,0,0.25);">
 </a>
 
@@ -79,7 +79,7 @@
 | ⏰ Long wait times for specialists | 🚀 Immediate results with 90% accuracy |
 | 📊 Complex medical data interpretation | 🎯 Simple form with actionable insights |
 
-**🔗 Live Application:** https://heartcareai.streamlit.app/
+**🔗 Live Application:** https://heartcareai-4tkb9fwhcwhzzd5zkd9rpl.streamlit.app/
 
 ---
 
